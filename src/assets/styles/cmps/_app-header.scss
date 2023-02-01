@@ -1,0 +1,36 @@
+.app-header {
+    background-color: #014e56;
+    line-height: 2;
+
+    
+    .app-header-nav {
+        padding-top: 73px;
+        display: flex;
+        flex-direction: row;
+        color: white;
+        justify-content: space-between;
+        font-size: 18px;
+
+        .logo-container {
+            padding-right: 20px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            display: flex;
+            width: 380px;
+            justify-content: space-between;
+        }
+
+        
+        .contact {
+            button {
+                background-color: inherit;
+                color: white;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                border: 2px solid #ffffff;
+                border-radius: 24px;
+                line-height: 28px;
+                width: 153px;
+                font-size: inherit;
+            }
+        }
+    }
+}
