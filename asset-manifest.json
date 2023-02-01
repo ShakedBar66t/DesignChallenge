@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%E2%80%8Bhttps://ShakedBar66t.github.io/DesignChallenge%E2%80%8B/static/css/main.e2592434.css",
+    "main.js": "/%E2%80%8Bhttps://ShakedBar66t.github.io/DesignChallenge%E2%80%8B/static/js/main.8c29489b.js",
+    "index.html": "/%E2%80%8Bhttps://ShakedBar66t.github.io/DesignChallenge%E2%80%8B/index.html",
+    "main.e2592434.css.map": "/%E2%80%8Bhttps://ShakedBar66t.github.io/DesignChallenge%E2%80%8B/static/css/main.e2592434.css.map",
+    "main.8c29489b.js.map": "/%E2%80%8Bhttps://ShakedBar66t.github.io/DesignChallenge%E2%80%8B/static/js/main.8c29489b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2592434.css",
+    "static/js/main.8c29489b.js"
+  ]
+}
